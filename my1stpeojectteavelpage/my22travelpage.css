@@ -1,0 +1,14 @@
+p {
+    color: yellow;
+}
+
+body {
+    background-video: rgb(135, 173, 173);
+text-align:right;
+
+}
+
+.continue {
+    display: flex;
+    align-items: center;
+}
